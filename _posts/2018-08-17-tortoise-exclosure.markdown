@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The effects of herbivory by the gopher tortoise (*Gopherus polyphemus*) on plant community composition"
+title: "The effects of herbivory by the gopher tortoise (Gopherus polyphemus) on plant community composition"
 date: 2018-08-15
 ---
 
