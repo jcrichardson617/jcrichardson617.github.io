@@ -18,7 +18,8 @@ This package has been used for dietary analyses of:
 [Copepods](https://academic.oup.com/icesjms/advance-article-abstract/doi/10.1093/icesjms/fsx249/4836298?redirectedFrom=fulltext)
 
 
-## [Tortoise exclosure](https://jcrichardson617.github.io/2018/08/15/tortoise-exclosure.html) :turtle:
+## [Tortoise exclosure](https://jcrichardson617.github.io/2018/08/15/seed-germinability.html) :turtle:
+                      
 
 This experiment was done on Egmont Key off the coast of St. Petersburg Florida and examined the effects of gopher tortoise herbivory on plant community composition through exclosure plots, thereby providing areas where tortoises were able to feed and those where they were prohibited.
 
