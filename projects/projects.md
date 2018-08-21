@@ -22,6 +22,6 @@ This package has been used for dietary analyses of:
 
 This experiment was done on Egmont Key off the coast of St. Petersburg Florida and examined the effects of gopher tortoise herbivory on plant community composition through exclosure plots, thereby providing areas where tortoises were able to feed and those where they were prohibited.
 
-## [Tortoise gut passage on seed germination](jcrichardson617.github.io/_posts/2018-08-21-seed-germinability.html) :seedling:
+## [Tortoise gut passage on seed germination](https://jcrichardson617.github.io/2018/08/21/seed-germinability.html) :seedling:
 
 Passage through animal guts may alter the percentage of seeds germinating, or the time it takes for a seed to germinate (collectively referred to as seed germinability). Plant species from the field site in the above experiment were used in this study examining how the passage of seeds by gopher tortoises alters seed germinability. 
