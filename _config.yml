@@ -14,11 +14,12 @@ highlighter: rouge
 
 gems:
   - jemoji
-  
+ 
+# Analytics
 analytics:
-      		provider: "google-universal"
+  provider               : "google-universal"
   google:
- 	tracking_id: "UA-124519971-1"
+    tracking_id          : "UA-124519971-1"
 
 plugins:
   - jekyll-seo-tag
