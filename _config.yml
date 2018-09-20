@@ -16,9 +16,9 @@ gems:
   - jemoji
   
 analytics:
-  	provider: "google-universal"
-  	google:
- 	  tracking_id: "UA-1234567-8"
+      		provider: "google-universal"
+  google:
+ 	tracking_id: "UA-1234567-8"
 
 plugins:
   - jekyll-seo-tag
