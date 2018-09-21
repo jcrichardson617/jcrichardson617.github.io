@@ -8,7 +8,7 @@ date: 2018-08-15
 
 Animals may alter plants in a number of different ways. One of those ways is in changing the plant community composition - that is, the species present and the relative number of individuals per species. Prior to this experiment, we had no information on how this phenomenon was effected by reptiles, despite the prevalence of many herbivorous species.
 
-I tested the question of "does gopher tortoise herbivoy have an effect on plant community composition?" using an exclosure plot on Egmont Key Florida. A fairly remote location ideal for this experiment as it is void of other herbivores. Any effect observed between controls and exclosures were [probably] from the tortoises.
+I sought to answer the question of "does gopher tortoise herbivoy have an effect on plant community composition?" using an exclosure plot on Egmont Key off the coast of St. Petersburg, Florida. This fairly remote location was ideal for this experiment as it is void of other herbivores. Any effect observed between controls and exclosures were [probably] from the tortoises.
 
 I hypothesized that in the absence of tortoises, more individual plants would be present, as nothing is there to eat them back. But that there would be a decrease in species richness, and thus a decrease in diversity, because we've seen in other plant-herbivore systems a lack of herbivory typically allows one or two plant species to come in and take over. 
 
@@ -116,4 +116,4 @@ Contrary to my original hypothesis, lack of tortoise herbivory did not cause a c
 
 *H. polyphyllum* was the dominant species in terms of numbers and belowground biomass across both plot types. The extent of its dominance was greater in exclosure plots than in control plots. *F. cymosa* had greater biomass in control plots. As *H. polyphyllum* is preferred by tortoises over the other four most common plant species, it is likely that tortoises normally graze heavily on this plant, keeping it in lower abundances than would be observed in the absence of tortoise grazing. This consumption allows competitive release for other plant species and they increase in abundance and biomass. In exclosure plots, the increase in *H. polyphyllum* may explain the drastic decrease in abundance of *F. cymosa* and the extirpation of some the more rare plants. 
 
-Full code available on my github account.
+Full code available ![here](https://github.com/jcrichardson617/tortoiseexclosure/tree/master).
