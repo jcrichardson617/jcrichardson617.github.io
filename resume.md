@@ -22,7 +22,7 @@ ___
 
 ## Professional Experience
 
-**Graduate Research Assistant**<br/>
+**Graduate Research Scientist**<br/>
 University of South Florida, Tampa, FL<br/>
 2013 - 2018
 
