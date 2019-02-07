@@ -11,12 +11,17 @@ An R package for assessing animal diets from field selection and experimental di
 
 This package has been used for dietary analyses of:
 
+[Copepods](https://academic.oup.com/icesjms/advance-article-abstract/doi/10.1093/icesjms/fsx249/4836298?redirectedFrom=fulltext)
+
 [The endangered Darwin's frog](https://www.researchgate.net/profile/Andres_Valenzuela_Sanchez/publication/325480717_Trophic_ecology_of_the_endangered_Darwin's_frog_inferred_by_stable_isotopes/links/5b61ac78458515c4b257b4df/Trophic-ecology-of-the-endangered-Darwins-frog-inferred-by-stable-isotopes.pdf)
+
+[Eurasian otters](http://s-space.snu.ac.kr/bitstream/10371/144576/1/000000153344.pdf)
+
+[Karoo scrub robin](https://www.biorxiv.org/content/10.1101/508465v1.abstract)
 
 [Red-footed falcons](https://www.researchgate.net/publication/322015465_Food_supply_Orthoptera_Mantodea_Rodentia_and_Eulipotyphla_and_food_preferences_of_the_red-footed_falcon_Falco_vespertinus_in_Slovakia)
 
-[Copepods](https://academic.oup.com/icesjms/advance-article-abstract/doi/10.1093/icesjms/fsx249/4836298?redirectedFrom=fulltext)
-
+[Utahn fish](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=8513&context=etd)
 
 ## [Tortoise exclosure](https://jcrichardson617.github.io/2018/08/15/seed-germinability.html) :turtle:
                       
