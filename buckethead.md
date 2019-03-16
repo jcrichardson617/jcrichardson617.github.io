@@ -22,6 +22,6 @@ I joked with Rocky and Bernie after that I hope a crazy person tries to choke me
 
 Catch you in Tampa! And hopefully Rocky and Bernie as well.
 
-![](/images/buck.png)
+![](/images/buck.jpg)
 
 PS I think the only song that I've not heard live that I really want to is "For Mom", do you take requests?
