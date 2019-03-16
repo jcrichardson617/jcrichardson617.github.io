@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BigB
+title: Buckethead
 weight: 2
 ---
 
