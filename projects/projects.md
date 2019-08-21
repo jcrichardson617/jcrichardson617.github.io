@@ -13,19 +13,19 @@ This package has been used for dietary analyses of:
 
 [Copepods](https://academic.oup.com/icesjms/advance-article-abstract/doi/10.1093/icesjms/fsx249/4836298?redirectedFrom=fulltext)
 
-[The endangered Darwin's frog](https://www.researchgate.net/profile/Andres_Valenzuela_Sanchez/publication/325480717_Trophic_ecology_of_the_endangered_Darwin's_frog_inferred_by_stable_isotopes/links/5b61ac78458515c4b257b4df/Trophic-ecology-of-the-endangered-Darwins-frog-inferred-by-stable-isotopes.pdf) :frog:
+[The endangered Darwin's frog](https://www.researchgate.net/profile/Andres_Valenzuela_Sanchez/publication/325480717_Trophic_ecology_of_the_endangered_Darwin's_frog_inferred_by_stable_isotopes/links/5b61ac78458515c4b257b4df/Trophic-ecology-of-the-endangered-Darwins-frog-inferred-by-stable-isotopes.pdf)
 
-[Eurasian otters](http://s-space.snu.ac.kr/bitstream/10371/144576/1/000000153344.pdf) :otter:
+[Eurasian otters](http://s-space.snu.ac.kr/bitstream/10371/144576/1/000000153344.pdf)
 
-[Karoo scrub robin](https://www.biorxiv.org/content/10.1101/508465v1.abstract) :robin:
+[Karoo scrub robin](https://www.biorxiv.org/content/10.1101/508465v1.abstract)
 
-[Red-footed falcons](https://www.researchgate.net/publication/322015465_Food_supply_Orthoptera_Mantodea_Rodentia_and_Eulipotyphla_and_food_preferences_of_the_red-footed_falcon_Falco_vespertinus_in_Slovakia) :falcon:
+[Red-footed falcons](https://www.researchgate.net/publication/322015465_Food_supply_Orthoptera_Mantodea_Rodentia_and_Eulipotyphla_and_food_preferences_of_the_red-footed_falcon_Falco_vespertinus_in_Slovakia)
 
-[Utahn fish](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=8513&context=etd) :fish:
+[Utahn fish](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=8513&context=etd) 
 
-[Wyoming Wolves](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21710) :wolf:
+[Wyoming Wolves](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21710) 
 
-## [Tortoise exclosure](https://jcrichardson617.github.io/2018/08/15/seed-germinability.html) :turtle:
+## [Tortoise exclosure](https://jcrichardson617.github.io/2018/08/15/seed-germinability.html) 
                       
 
 This experiment was done on Egmont Key off the coast of St. Petersburg Florida and examined the effects of gopher tortoise herbivory on plant community composition through exclosure plots, thereby providing areas where tortoises were able to feed and those where they were prohibited.
