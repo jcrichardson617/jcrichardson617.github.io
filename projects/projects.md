@@ -23,6 +23,8 @@ This package has been used for dietary analyses of:
 
 [Utahn fish](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=8513&context=etd)
 
+[Wyoming Wolves](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21710) :wolf:
+
 ## [Tortoise exclosure](https://jcrichardson617.github.io/2018/08/15/seed-germinability.html) :turtle:
                       
 
