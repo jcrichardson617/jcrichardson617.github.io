@@ -6,42 +6,49 @@ weight: 2
 
 ## Professional Summary
 
-Data Scientist with 5 years of experience solving problems with data using various research methods and techniques to manage, query, and analyze data, find hidden patterns and develop reports to communicate results to data-minded people and other audiences. Enthusiastic recent graduate doctoral student with an appetite for learning new technologies and techniques as demonstrated by transitioning from a field ecologist to a programmer and statistician proficient in R, RStudio, Git, Tableau, and SQL. Proven ability to effectively communicate results and tell stories with data through oral presentations and written publications. Builds strong and collaborative relationships. 
+Data Scientist with 7 years of experience solving problems with data using statistics, machine learning, and data visualization to find hidden patterns and develop reports to communicate results to data-minded people and other audiences. Strong appetite for learning new technologies and techniques as demonstrated by transitioning from a biologist to a programmer and statistician proficient in R/RStudio, Python, Git, Tableau, and SQL. Proven ability to effectively communicate results and tell stories with data through oral presentations and written publications. 
 
 ___
 
 ## Skill Highlights
 
-**Technical:**<br/>R/RStudio, Excel, Git, SQL, Matlab, HTML
+**Technical:**<br/>R/RStudio, Python (pandas, numpy, scikit learn, seaborn), Excel, SQL, Git, Spark 
+(via Azure), HTML
 
-**Statistical:**<br/>Data Visualization (e.g. ggplot2, Tableau)
-Machine Learning (Classification, Clustering, Dimension Reduction, Regression)
-Statistics (ANOVA, Generalized Linear Models, Multivariate Statistics, Natural Language Processing, Regression)
+
+**Statistical:**<br/>Data visualization (e.g. Tableau, ggplot2)
+		Deep Learning (Keras, Tensorflow)
+Machine Learning (Classification, Clustering, Natural Language Processing, 
+Regression, Reinforcement Learning) 
+Statistics (ANOVA, Dimension Reduction, Generalized Linear Models, Multivariate Statistics, Regression)
+
 
 ___
 
 ## Professional Experience
 
+**Data Scientist**<br/>
+Coca-Cola Beverages Florida, Tampa, FL<br/>
+2019 - present
+
+*	Conducted ad hoc analyses in collaboration with managers from a variety of teams.
+*	Employed machine learning models in to classify and group a variety of data. 
+*	Built R shiny apps to allow end-users to interact with models and refreshed dashboards. 
+*	Built statistical models including multiple types of regression, employed dimension-reduction techniques including nonmetric multidimensional scaling and factor analyses using R. 
+*	Merged, split, and transformed data using R and Python to facilitate statistical analyses and effective visualization of data.
+*	Created weekly reports using R Markdown to accurately communicate results of analyses to research group.
+
+
 **Graduate Research Scientist**<br/>
 University of South Florida, Tampa, FL<br/>
 2013 - 2018
 
-* Wrote and published an R package, Selectapref, which provides means to assess selection and
-preference among animal diets or human user preferences.
-* Merged, split and transformed data using R to facilitate statistical analyses and effective
-visualization of scientific data sets.
-* Selected and implemented statistical analyses best suited to field collected data and the relevant
-research questions.
-* Built and estimated statistical models including multiple types of regression, employed dimensionreduction
-techniques including nonmetric multidimensional scaling and factor analyses.
-* Created weekly reports using R Markdown to accurately communicate results of analyses to
-research group.
-* Collected data on plant community composition as part of a long-term ecological study on the
-impacts of tortoise herbivory on pants.
-* Assisted fellow laboratory members and students with statistical analyses.
-* Wrote and reviewed manuscripts for publication in peer-reviewed journals.
-* Recipient of the Dissertation Completion Fellowship in recognition of my research and its
-applications.
+*	Wrote and published an R package, Selectapref, which provides means to assess selection and preference among animal diets. 
+*	Selected and implemented statistical analyses best suited to field collected data and the relevant research questions.
+*	Assisted fellow laboratory members and students with statistical analyses.
+*	Wrote and reviewed manuscripts for publication in peer-reviewed journals. 
+*	Recipient of a Dissertation Completion Fellowship in recognition of my research and its applications. 
+
 
 **Graduate Teaching Assistant**<br/>
 University of South Florida, Tampa, FL<br/>
