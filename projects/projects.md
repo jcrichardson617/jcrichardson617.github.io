@@ -17,13 +17,19 @@ This package has been used for dietary analyses of:
 
 [Eurasian otters](http://s-space.snu.ac.kr/bitstream/10371/144576/1/000000153344.pdf)
 
+[Frugivorous birds](https://www.sciencedirect.com/science/article/pii/S0006320719314946)
+
 [Karoo scrub robin](https://www.biorxiv.org/content/10.1101/508465v1.abstract)
+
+[*Perlodes intricatus*](https://www.tandfonline.com/doi/abs/10.1080/01650424.2019.1708406)
 
 [Red-footed falcons](https://www.researchgate.net/publication/322015465_Food_supply_Orthoptera_Mantodea_Rodentia_and_Eulipotyphla_and_food_preferences_of_the_red-footed_falcon_Falco_vespertinus_in_Slovakia)
 
+[Stream invertebrate diversity](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13236)
+
 [Utahn fish](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=8513&context=etd) 
 
-[Wyoming Wolves](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21710) 
+[Wyoming wolves](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21710) 
 
 ## [Tortoise exclosure](https://jcrichardson617.github.io/2018/08/15/seed-germinability.html) :turtle:
                       
