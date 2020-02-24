@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Bio
 permalink: /about/
 weight: 2
 ---
