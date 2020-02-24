@@ -61,6 +61,4 @@ SP.shipments <- py$data
 ```
 
 
-```
-
 Was then just as simple as importing the HANA data in a new R script (or it could've been done in here) and using ```left_join``` from ```dplyr```, then writing to a csv which gets picked up and refreshes weekly in Tableau. 
