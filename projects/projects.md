@@ -31,6 +31,8 @@ This package has been used for dietary analyses of:
 
 [Wyoming wolves](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.21710) 
 
+[And more](https://scholar.google.com/scholar?hl=en&as_sdt=0,10&q=selectapref)
+
 ## [Tortoise exclosure](https://jcrichardson617.github.io/2018/08/15/seed-germinability.html) :turtle:
                       
 
