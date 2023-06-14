@@ -28,16 +28,24 @@ ___
 ## Professional Experience
 
 **Data Scientist**<br/>
+Grow Financial FCU, Tampa, FL<br/>
+2021 - present
+
+*	Analyzed member call data to predict call purpose based on previous activity, time of month, and other variables.
+*	Train data power users across the organization on statistical software and analyses. • Manage projects for data power users across a variety of teams.
+*	Facilitated the implementation of a model risk management system to ensure statistical projects are repeatable and assumptions are safe.
+*	Wrote and published an R package, cumprinc, to replicate and automate mortgage amortization analyses conducted in Microsoft Excel.
+
+**Data Scientist**<br/>
 Coca-Cola Beverages Florida, Tampa, FL<br/>
-2019 - present
+2019 - 2021
 
-*	Conducted ad hoc analyses in collaboration with managers from a variety of teams.
-*	Employed machine learning models in to classify and group a variety of data. 
-*	Built R shiny apps to allow end-users to interact with models and refreshed dashboards. 
-*	Built statistical models including multiple types of regression, employed dimension-reduction techniques including nonmetric multidimensional scaling and factor analyses using R. 
+*	Employed machine learning models to predict and rectify customer churn.
+*	Established novel connections to various databases in Python and R allowing the data science and analytics team to effectively automate workflows.
+*	Built Rshiny apps automating processes and allowing end-users to interact with models and refresh dashboards, saving the environmental health and safety team ~50 hours per week in manual processes.
+*	Conducted ad hoc analyses in collaboration with managers and VPs from a variety of teams.
+*	Trained statistical models including multiple types of regression, employed dimension- reduction techniques including nonmetric multidimensional scaling and factor analyses.
 *	Merged, split, and transformed data using R and Python to facilitate statistical analyses and effective visualization of data.
-*	Created weekly reports using R Markdown to accurately communicate results of analyses to research group.
-
 
 **Graduate Research Scientist**<br/>
 University of South Florida, Tampa, FL<br/>
