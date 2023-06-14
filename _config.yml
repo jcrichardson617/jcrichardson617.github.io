@@ -5,7 +5,6 @@ description: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jcrichardson617.github.io" # the base hostname & protocol for your site
-linkedin_username: jcrichardson617
 github_username:  jcrichardson617
 
 # Build settings
