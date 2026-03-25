@@ -60,10 +60,9 @@ a:hover {
    CONTENT
 =========================== */
 .content {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 60px 40px;
-  box-sizing: border-box;
+  max-width: 800px;      /* restricts line length for readability */
+  margin: 0 auto;        /* centers the container in the page */
+  padding: 60px 20px;    /* internal padding inside content block */
 }
 
 .tab {
