@@ -39,11 +39,10 @@ body {
   background: #38bdf8;
 }
 
-/* CONTENT */
 .content {
-  max-width: 900px;      /* limits how wide content can stretch */
-  margin: 0 auto;        /* centers content horizontally */
-  padding: 40px 20px;    /* top/bottom 40px, left/right 20px padding */
+  max-width: 800px;       /* narrower for readability */
+  margin: 0 auto;         /* centers content */
+  padding: 60px 40px;     /* top/bottom 60px, left/right 40px */
 }
 
 /* TABS (ANIMATION) */
@@ -182,9 +181,9 @@ body {
 }
 
 .content {
-  max-width: 900px;      /* limits width */
-  margin: 0 auto;        /* centers horizontally */
-  padding: 40px 20px;    /* top/bottom 40px, left/right 20px */
+  max-width: 800px;       /* narrower for readability */
+  margin: 0 auto;         /* centers content */
+  padding: 60px 40px;     /* top/bottom 60px, left/right 40px */
 }
 
 /* Make sure all tab content inherits padding */
