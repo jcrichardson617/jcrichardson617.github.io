@@ -60,9 +60,10 @@ a:hover {
    CONTENT
 =========================== */
 .content {
-  max-width: 800px;      /* restricts line length for readability */
-  margin: 0 auto;        /* centers the container in the page */
-  padding: 60px 20px;    /* internal padding inside content block */
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 40px;
+  box-sizing: border-box;
 }
 
 .tab {
@@ -158,15 +159,4 @@ p {
   .navbar li {
     padding: 10px 0;
   }
-}
-
-#about {
-  padding: 0 120px;       /* adds 20px extra space left/right inside About */
-  box-sizing: border-box;
-}
-
-#about p {
-  margin-left: 0;
-  margin-right: 0;
-  line-height: 1.6;
 }
