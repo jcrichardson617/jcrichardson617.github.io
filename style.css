@@ -161,6 +161,12 @@ p {
 }
 
 #about {
-  padding: 0 20px;       /* adds 20px extra space left/right inside About */
+  padding: 0 120px;       /* adds 20px extra space left/right inside About */
   box-sizing: border-box;
+}
+
+#about p {
+  margin-left: 0;
+  margin-right: 0;
+  line-height: 1.6;
 }
