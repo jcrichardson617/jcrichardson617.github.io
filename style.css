@@ -160,3 +160,19 @@ p {
     padding: 10px 0;
   }
 }
+
+/* ===========================
+   RESUME TAB WIDER
+=========================== */
+#resume {
+  max-width: 1000px;       /* wider than default content */
+  margin: 0 auto;          /* keep centered */
+  padding: 60px 40px;      /* same padding as content */
+  box-sizing: border-box;
+}
+
+#resume iframe {
+  width: 100%;             /* fill container */
+  height: 800px;           /* taller so full resume shows nicely */
+  border: none;            /* optional: remove border */
+}
