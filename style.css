@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+/* NAVBAR */
+.navbar {
+  display: flex;
+  list-style: none;
+  background: #111;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  padding: 15px 20px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar a.active {
+  border-bottom: 2px solid white;
+}
+
+/* CONTENT */
+.content {
+  padding: 30px;
+  min-height: 80vh;
+}
+
+/* TABS */
+.tab {
+  display: none;
+}
+
+.active-tab {
+  display: block;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #f1f1f1;
+}
+
+.linkedin-icon {
+  width: 30px;
+}
