@@ -1,172 +1,24 @@
 /* ===========================
-   GLOBAL STYLES
+   ABOUT PAGE PADDING
 =========================== */
-body {
-  margin: 0;
-  padding: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #0f172a;
-  color: #e2e8f0;
-}
-
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #38bdf8;
-}
-
-/* ===========================
-   NAVBAR
-=========================== */
-.navbar {
-  display: flex;
-  list-style: none;
-  background: #020617;
-  margin: 0;
-  padding: 0;
-  border-bottom: 1px solid #1e293b;
-  justify-content: center;
-}
-
-.navbar li {
-  padding: 15px 20px; /* reasonable height */
-}
-
-.navbar a {
-  color: #94a3b8;
-  text-decoration: none;
-  position: relative;
-  font-weight: 500;
-}
-
-.navbar a.active {
-  color: white;
-}
-
-.navbar a.active::after {
-  content: "";
-  position: absolute;
-  bottom: -5px;
-  left: 0;
-  width: 100%;
-  height: 2px;
-  background: #38bdf8;
-}
-
-/* ===========================
-   CONTENT
-=========================== */
-.content {
-  max-width: 800px;      /* restricts line length for readability */
-  margin: 0 auto;        /* centers the container in the page */
-  padding: 60px 20px;    /* internal padding inside content block */
-}
-
-.tab {
-  display: none;
-  opacity: 0;
-  transform: translateY(10px);
-  padding: 0; /* inherit padding from .content */
-  box-sizing: border-box;
-}
-
-.tab.active-tab {
-  display: block;
-  animation: fadeSlide 0.4s ease forwards;
-}
-
-@keyframes fadeSlide {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-h1, h2, h3 {
-  margin-bottom: 15px;
-}
-
-.subtitle {
-  color: #94a3b8;
-  margin-top: -10px;
-}
-
-p {
-  line-height: 1.6;
-  margin-bottom: 15px;
-}
-
-/* ===========================
-   PROJECT CARDS
-=========================== */
-.card {
-  background: #020617;
-  padding: 40px;
-  margin-top: 20px;
-  border-radius: 12px;
-  border: 1px solid #1e293b;
-  transition: transform 0.2s ease, border 0.2s ease;
-}
-
-.card:hover {
-  transform: translateY(-5px);
-  border: 1px solid #38bdf8;
-}
-
-/* ===========================
-   CONTACT ICONS
-=========================== */
-.contact-links {
-  margin: 25px 0 40px 0;
-  display: flex;
-  align-items: center;
-}
-
-.contact-links a {
-  margin-right: 15px;
-}
-
-.icon {
-  width: 28px;
-  height: 28px;
-  filter: brightness(0) invert(1); /* white icons */
-  transition: transform 0.2s ease, opacity 0.2s ease;
-  object-fit: contain;
-}
-
-.icon:hover {
-  transform: scale(1.1);
-  opacity: 0.8;
-}
-
-/* ===========================
-   RESPONSIVE
-=========================== */
-@media (max-width: 600px) {
-  .content {
-    padding: 30px 20px;
-  }
-
-  .navbar {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .navbar li {
-    padding: 10px 0;
-  }
-}
-
 #about {
-  padding: 0 120px;       /* adds 20px extra space left/right inside About */
+  max-width: 700px;       /* restrict width for readability */
+  margin: 0 auto;         /* center horizontally */
+  padding: 40px 30px;     /* top/bottom 40px, left/right 30px */
   box-sizing: border-box;
 }
 
 #about p {
-  margin-left: 0;
-  margin-right: 0;
-  line-height: 1.6;
+  margin-bottom: 18px;
+  line-height: 1.7;
+}
+
+#about h1, #about h2 {
+  text-align: center;     /* center headings for style */
+  margin-bottom: 10px;
+}
+
+.contact-links {
+  justify-content: center; /* center the icons */
+  margin: 20px 0 40px 0;
 }
