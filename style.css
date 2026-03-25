@@ -1,11 +1,26 @@
+/* ===========================
+   GLOBAL STYLES
+=========================== */
 body {
   margin: 0;
+  padding: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: #0f172a;
+  background-color: #0f172a;
   color: #e2e8f0;
 }
 
-/* NAVBAR */
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #38bdf8;
+}
+
+/* ===========================
+   NAVBAR
+=========================== */
 .navbar {
   display: flex;
   list-style: none;
@@ -13,16 +28,18 @@ body {
   margin: 0;
   padding: 0;
   border-bottom: 1px solid #1e293b;
+  justify-content: center;
 }
 
 .navbar li {
-  padding: 150px 20px;
+  padding: 15px 20px; /* reasonable height */
 }
 
 .navbar a {
   color: #94a3b8;
   text-decoration: none;
   position: relative;
+  font-weight: 500;
 }
 
 .navbar a.active {
@@ -39,17 +56,22 @@ body {
   background: #38bdf8;
 }
 
+/* ===========================
+   CONTENT
+=========================== */
 .content {
-  max-width: 800px;       /* narrower for readability */
-  margin: 0 auto;         /* centers content */
-  padding: 60px 40px;     /* top/bottom 60px, left/right 40px */
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 40px;
+  box-sizing: border-box;
 }
 
-/* TABS (ANIMATION) */
 .tab {
   display: none;
   opacity: 0;
   transform: translateY(10px);
+  padding: 0; /* inherit padding from .content */
+  box-sizing: border-box;
 }
 
 .tab.active-tab {
@@ -64,7 +86,23 @@ body {
   }
 }
 
-/* PROJECT CARDS */
+h1, h2, h3 {
+  margin-bottom: 15px;
+}
+
+.subtitle {
+  color: #94a3b8;
+  margin-top: -10px;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+/* ===========================
+   PROJECT CARDS
+=========================== */
 .card {
   background: #020617;
   padding: 40px;
@@ -79,125 +117,46 @@ body {
   border: 1px solid #38bdf8;
 }
 
-/* FOOTER */
-footer {
-  text-align: center;
-  padding: 15px;
-  background: #020617;
-  border-top: 1px solid #1e293b;
-}
-
-.linkedin-icon {
-  width: 28px;
-  margin-top: 5px;
-}
-
-/* MOBILE */
-@media (max-width: 600px) {
-  .content {
-    padding: 20px;
-  }
-
-  .navbar {
-    justify-content: center;
-  }
-}
-
-.content {
-  padding: 25px;
-  max-width: 800px;
-  margin: auto;
-  min-height: auto;
-}
-
-p {
-  line-height: 1.5;
-  margin-bottom: 12px;
-}
-
-.subtitle {
-  color: #94a3b8;
-  margin-top: -10px;
-}
-
-/* CONTACT LINKS UNDER NAME */
+/* ===========================
+   CONTACT ICONS
+=========================== */
 .contact-links {
-  margin: 15px 0 25px 0;
-}
-
-.contact-links a {
-  margin-right: 15px;
-  color: #38bdf8;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.contact-links a:hover {
-  text-decoration: underline;
-}
-
-.content {
-  padding: 25px;
-  max-width: 800px;
-  margin: auto;
-}
-
-/* ALL LINKS WHITE */
-a {
-  color: #ffffff;
-}
-
-a:hover {
-  color: #38bdf8;
-}
-
-.icon {
-  width: 28px;      /* width of the icon */
-  height: 28px;     /* force uniform height */
-  margin-right: 15px;
-  filter: brightness(0) invert(1); /* makes them white */
-  transition: transform 0.2s ease, opacity 0.2s ease;
-  object-fit: contain; /* ensures aspect ratio is preserved */
-}
-
-.icon:hover {
-  transform: scale(1.2);
-  opacity: 0.8;
-}
-
-.contact-links {
-  margin: 15px 0 25px 0;
+  margin: 25px 0 40px 0;
   display: flex;
   align-items: center;
 }
 
-/* Center content and restrict width */
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-  background-color: #0f172a; /* optional dark background */
-  color: #ffffff;            /* white text */
+.contact-links a {
+  margin-right: 15px;
 }
 
-.content {
-  max-width: 800px;       /* narrower for readability */
-  margin: 0 auto;         /* centers content */
-  padding: 60px 40px;     /* top/bottom 60px, left/right 40px */
+.icon {
+  width: 28px;
+  height: 28px;
+  filter: brightness(0) invert(1); /* white icons */
+  transition: transform 0.2s ease, opacity 0.2s ease;
+  object-fit: contain;
 }
 
-/* Make sure all tab content inherits padding */
-.tab {
-  padding: 0 10px;       /* small extra padding inside tabs */
-  box-sizing: border-box;
+.icon:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
 }
 
-/* Headings and paragraphs spacing */
-h1, h2, h3 {
-  margin-bottom: 15px;
-}
+/* ===========================
+   RESPONSIVE
+=========================== */
+@media (max-width: 600px) {
+  .content {
+    padding: 30px 20px;
+  }
 
-p {
-  margin-bottom: 15px;
-  line-height: 1.6;
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .navbar li {
+    padding: 10px 0;
+  }
 }
