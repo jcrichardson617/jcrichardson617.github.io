@@ -41,10 +41,9 @@ body {
 
 /* CONTENT */
 .content {
-  padding: 40px;
+  padding: 30px;
   max-width: 900px;
   margin: auto;
-  min-height: 80vh;
 }
 
 /* TABS (ANIMATION) */
