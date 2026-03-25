@@ -22,3 +22,28 @@
   justify-content: center; /* center the icons */
   margin: 20px 0 40px 0;
 }
+
+/* ===========================
+   ABOUT PAGE PADDING / CENTERING
+=========================== */
+#about {
+  max-width: 700px;       /* keeps lines readable */
+  margin: 0 auto;         /* centers About section */
+  padding: 40px 30px;     /* adds breathing room top/bottom & sides */
+  box-sizing: border-box; /* ensures padding doesn't break width */
+}
+
+#about p {
+  margin-bottom: 18px;    /* more spacing between paragraphs */
+  line-height: 1.7;       /* readable line height */
+}
+
+#about h1, #about h2 {
+  text-align: left;       /* keeps headings aligned like Projects/Resume */
+  margin-bottom: 10px;    
+}
+
+#about .contact-links {
+  justify-content: flex-start; /* keeps icons left aligned like before */
+  margin: 20px 0 40px 0;
+}
