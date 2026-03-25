@@ -28,14 +28,11 @@ document.querySelectorAll('.navbar a').forEach(link => {
   });
 });
 
-// Handle URL hash (important)
+// Load correct tab
 function loadFromHash() {
   const hash = window.location.hash.replace('#', '');
   showTab(hash || 'about');
 }
 
-// Initial load
 window.addEventListener('load', loadFromHash);
-
-// Back/forward browser buttons
 window.addEventListener('hashchange', loadFromHash);
