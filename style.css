@@ -153,10 +153,12 @@ a:hover {
 }
 
 .icon {
-  width: 26px;
+  width: 28px;      /* width of the icon */
+  height: 28px;     /* force uniform height */
   margin-right: 15px;
-  filter: brightness(0) invert(1); /* makes icons white */
+  filter: brightness(0) invert(1); /* makes them white */
   transition: transform 0.2s ease, opacity 0.2s ease;
+  object-fit: contain; /* ensures aspect ratio is preserved */
 }
 
 .icon:hover {
