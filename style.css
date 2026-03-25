@@ -142,3 +142,30 @@ p {
   max-width: 800px;
   margin: auto;
 }
+
+/* ALL LINKS WHITE */
+a {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #38bdf8;
+}
+
+.icon {
+  width: 26px;
+  margin-right: 15px;
+  filter: brightness(0) invert(1); /* makes icons white */
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+  opacity: 0.8;
+}
+
+.contact-links {
+  margin: 15px 0 25px 0;
+  display: flex;
+  align-items: center;
+}
