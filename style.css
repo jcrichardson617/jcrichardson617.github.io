@@ -41,9 +41,9 @@ body {
 
 /* CONTENT */
 .content {
-  padding: 30px;
-  max-width: 900px;
-  margin: auto;
+  max-width: 900px;      /* limits how wide content can stretch */
+  margin: 0 auto;        /* centers content horizontally */
+  padding: 40px 20px;    /* top/bottom 40px, left/right 20px padding */
 }
 
 /* TABS (ANIMATION) */
