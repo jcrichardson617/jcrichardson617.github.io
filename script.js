@@ -1,16 +1,41 @@
 function showTab(tabId) {
   // Hide all tabs
-  const tabs = document.querySelectorAll('.tab');
-  tabs.forEach(tab => tab.classList.remove('active-tab'));
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.classList.remove('active-tab');
+  });
 
   // Show selected tab
-  document.getElementById(tabId).classList.add('active-tab');
+  const activeTab = document.getElementById(tabId);
+  if (activeTab) {
+    activeTab.classList.add('active-tab');
+  }
 
-  // Update active nav
-  const links = document.querySelectorAll('.navbar a');
-  links.forEach(link => link.classList.remove('active'));
-
-  event.target.classList.add('active');
+  // Update nav
+  document.querySelectorAll('.navbar a').forEach(link => {
+    link.classList.remove('active');
+    if (link.dataset.tab === tabId) {
+      link.classList.add('active');
+    }
+  });
 }
 
-showTab('about');
+// Handle clicks
+document.querySelectorAll('.navbar a').forEach(link => {
+  link.addEventListener('click', function(e) {
+    e.preventDefault();
+    const tab = this.dataset.tab;
+    window.location.hash = tab;
+  });
+});
+
+// Handle URL hash (important)
+function loadFromHash() {
+  const hash = window.location.hash.replace('#', '');
+  showTab(hash || 'about');
+}
+
+// Initial load
+window.addEventListener('load', loadFromHash);
+
+// Back/forward browser buttons
+window.addEventListener('hashchange', loadFromHash);
