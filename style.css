@@ -178,9 +178,8 @@ p {
 }
 
 
-.card a {
+.card p a {
   color: #38bdf8;
-  text-decoration: none;
 }
 
 .card a:hover {
