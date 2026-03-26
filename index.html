@@ -53,9 +53,20 @@
       <h1>Projects</h1>
 
       <div class="card">
-        <h2>Customer Churn Model</h2>
-        <p>Built XGBoost model to predict customer churn.</p>
-        <p><strong>AUC:</strong> 0.87</p>
+        <h2>Coke Florida Customer Churn Model</h2>
+        <p>When I was at Coke Florida, we had an issue where we were seeing an uptick in the number of customers in the small independently owned 
+          convenience store channel no longer purchasing from us. I was tasked with figuring out why this may be. After some exploratory data analysis to 
+          get to the root of the issue, 
+          I decided to take it a step further and build out a model that could help to predict over the next 3 months would a customer continue to purchase
+        from use or not. This model looked not only at sales metrics but at customer staisfaction metrics as well. For example, if we had equipment in 
+          the store 
+          how often did it breakdown. If it did breakdown how fast were we to get out there and repair it? I used XGBoost to build a binary classification 
+          model.
+          During training, I achieved an AUC of 0.87. This model was deployed in Azure ML as a scheduled batch inference pipeline that generated a weekly 
+          churn prediction list for customers in this channel. The output was automatically delivered to the field sales team via email, enabling targeted 
+          outreach to at-risk customers. Over time we saw a downturn in the number of churning customers.
+        
+        During training, I achieved an AUC of 0.87. 
         <p><a href="https://github.com/YOUR_GITHUB_USERNAME/churn-model" target="_blank">View on GitHub</a></p>
       </div>
 
