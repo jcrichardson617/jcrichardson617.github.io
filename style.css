@@ -176,3 +176,14 @@ p {
   height: 800px;           /* taller so full resume shows nicely */
   border: none;            /* optional: remove border */
 }
+
+
+.card a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+.card a:hover {
+  color: #0ea5e9;
+  text-decoration: underline;
+}
